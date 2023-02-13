@@ -1,6 +1,6 @@
 {
     "name": "cdk-test-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": "true",
     "description": "CDK Test app to generate CDK templates for all constructs.",
     "bin": {
